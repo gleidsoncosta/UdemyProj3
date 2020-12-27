@@ -446,3 +446,4 @@ $RECYCLE.BIN/
 ## User git ignore
 ##
 appsettings.json
+.vscode
